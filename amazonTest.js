@@ -8,4 +8,4 @@ async function amazonTest() {
     await driver.close();
 };
 
-amazonTest();
+amazonTest()
