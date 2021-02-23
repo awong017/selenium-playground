@@ -9,4 +9,4 @@ async function facebookTest() {
     await driver.quit();
 };
 
-facebookTest();
+facebookTest()
