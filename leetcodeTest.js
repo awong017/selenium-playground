@@ -8,4 +8,4 @@ async function leetcodeTest() {
     await driver.quit();
 };
 
-leetcodeTest();
+leetcodeTest()
